@@ -1,0 +1,13 @@
+body {
+    padding: 50px;
+    font: 14px "Tahoma", Helvetica, Arial, sans-serif;
+    height: 100vh;
+}
+
+form {
+    background-color: #eee;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+
